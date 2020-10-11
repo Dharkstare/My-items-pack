@@ -1251,6 +1251,7 @@
                69,
                632
             ],
+            "phyResDmg":12,
             "range":[
                3,
                6
@@ -6561,7 +6562,7 @@
    }
 }, {
     "id": 198,
-    "name": "Energy Fortress",
+    "name": "Electric Fortress",
     "image":"%url%_ (4).png",
     "type": "MODULE",
     "element": "COMBINED",
