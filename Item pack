@@ -6580,6 +6580,7 @@
     "id": 199,
     "name": "Physical Fortress",
     "image":"%url%_ (2).png",
+    "unreleased":true,
     "type": "MODULE",
     "element": "COMBINED",
     "transform_range": "L-D",
@@ -6596,6 +6597,7 @@
     "id": 200,
     "name": "Explosive Fortress",
     "image":"%url%_ (3).png",
+    "unreleased":true,
     "type": "MODULE",
     "element": "COMBINED",
     "transform_range": "L-D",
@@ -6608,6 +6610,39 @@
         "expRes": 69,
         "health": 166
    }
-}
-   ]
-}
+}, {
+         "id":201,
+         "name":"Lightning Cutter",
+         "image":"%url%_ (13).png",
+         "type":"SIDE_WEAPON",
+         "element":"ELECTRIC",
+         "stats":{
+            "weight":49,
+            "eleDmg":[
+               181,
+               362
+            ],
+            "eneDmg":114,
+            "eleResDmg":10,
+            "range":[
+               1,
+               2
+            ],
+            "backfire":144,
+            "heaCost":62
+         },
+         "divine":{
+            "eleDmg":[
+               191,
+               382
+            ],
+            "eneDmg":121
+         },
+         "attachment":{
+            "x":53,
+            "y":50
+         },
+         "transform_range":"L-D"
+      }
+]
+   }
