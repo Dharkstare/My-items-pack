@@ -6373,6 +6373,7 @@
             "jump":2
          },
          "divine":{
+            "health":541,
             "phyDmg":[
                148,
                239
