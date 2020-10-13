@@ -1,9 +1,9 @@
 {
    "config":{
       "key":"@Darkstare",
-      "name":"Default Items Pack",
+      "name":"Darkstare's Items Pack",
       "base_url":"https://raw.githubusercontent.com/ctrl-raul/workshop-unlimited/master/public/assets/items/",
-      "description":"last change: 26/08/2020 (DMY)"
+      "description":"The Item Pack consistently updated by Darkstare, originally made by Killin"
    },
    "items":[
       {
