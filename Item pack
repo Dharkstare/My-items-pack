@@ -6661,7 +6661,8 @@
                2,
                4
             ],
-            "uses":1
+            "uses":1,
+            "backfire":180
          },
          "divine":{
             "phyDmg":[
