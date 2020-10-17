@@ -1,9 +1,9 @@
 {
    "config":{
       "key":"@Darkstare",
-      "name":"Darkstare's Items Pack",
+      "name":"Default Items Pack",
       "base_url":"https://raw.githubusercontent.com/ctrl-raul/workshop-unlimited/master/public/assets/items/",
-      "description":"The Item Pack consistently updated by Darkstare, originally made by Killin"
+      "description":"last change: 26/08/2020 (DMY)"
    },
    "items":[
       {
@@ -6642,6 +6642,36 @@
          "attachment":{
             "x":53,
             "y":50
+         },
+         "transform_range":"L-D"
+      }, {
+         "id":202,
+         "name":"Damaged Armor Annihilator",
+         "image":"%url%_2.png",
+         "type":"SIDE_WEAPON",
+         "element":"PHYSICAL",
+         "stats":{
+            "weight":8,
+            "phyDmg":[
+               91,
+               146
+            ],
+            "phyResDmg":60,
+            "range":[
+               2,
+               4
+            ],
+            "uses":1
+         },
+         "divine":{
+            "phyDmg":[
+               96,
+               155
+            ]
+         },
+         "attachment":{
+            "x":44,
+            "y":26
          },
          "transform_range":"L-D"
       }
