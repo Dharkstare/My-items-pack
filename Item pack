@@ -1,9 +1,9 @@
 {
    "config":{
       "key":"@Darkstare",
-      "name":"Default Items Pack",
+      "name":"Darkstare’s item pack",
       "base_url":"https://raw.githubusercontent.com/ctrl-raul/workshop-unlimited/master/public/assets/items/",
-      "description":"last change: 26/08/2020 (DMY)"
+      "description":"Updated by Darkstare, made by Killin. Contact me at Darkstare#8063 on Discord or on the SuperMechs Forums"
    },
    "items":[
       {
