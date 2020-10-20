@@ -1423,7 +1423,7 @@
          "divine":{
             "phyDmg":[
                172,
-               178
+               278
             ]
          },
          "transform_range":"L-D"
@@ -2715,6 +2715,7 @@
                337
             ],
             "expResDmg":5,
+            "heaDmg":58,
             "push":1,
             "retreat":2,
             "range":[
