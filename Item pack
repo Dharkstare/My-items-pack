@@ -6256,11 +6256,16 @@
          "element":"EXPLOSIVE",
          "stats":{
             "weight":63,
+            "eleDmg":[
+               999,
+               999
+            ],
             "expDmg":[
                202,
                362
             ],
             "heaDmg":106,
+            "expResDmg":14,
             "range":[
                3,
                6
@@ -6272,10 +6277,10 @@
          },
          "divine":{
             "expDmg":[
-               186,
-               298
+               213,
+               382
             ],
-            "heaDmg":73
+            "heaDmg":112
          },
          "attachment":{
             "x":57,
