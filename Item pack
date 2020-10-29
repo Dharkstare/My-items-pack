@@ -1253,6 +1253,7 @@
           137,
           180
         ],
+        "range": [2, 9],
         "uses": 1
       },
       "transform_range": "E-D"
@@ -1269,6 +1270,7 @@
           154,
           202
         ],
+        "range": [2, 9],
         "uses": 1
       },
       "transform_range": "L-D"
@@ -2899,6 +2901,7 @@
           156
         ],
         "heaDmg": 41,
+        "range": [2, 9],
         "uses": 1,
         "heaCost": 31
       },
@@ -4325,6 +4328,7 @@
           142
         ],
         "eneDmg": 50,
+        "range": [2, 9],
         "uses": 1,
         "eneCost": 31
       },
@@ -5038,6 +5042,7 @@
           283,
           370
         ],
+        "range": [2, 9],
         "uses": 1
       },
       "transform_range": "L-D"
@@ -5278,7 +5283,6 @@
       "id": 193,
       "name": "Massive Shocker Feet",
       "image": "%url%MassiveShockerFeet.png",
-      "unreleased": true,
       "type": "LEGS",
       "element": "ELECTRIC",
       "stats": {
@@ -5310,7 +5314,6 @@
       "id": 194,
       "name": "Broken Blizzard Dissolver",
       "image": "%url%BrokenBlizzardDissolver.png",
-      "unreleased": true,
       "type": "SIDE_WEAPON",
       "element": "ELECTRIC",
       "stats": {
@@ -5332,7 +5335,8 @@
         "x": 40,
         "y": 23
       },
-      "transform_range": "E-D"
+      "transform_range": "E-D",
+      "tags": ["unreleased"]
     },
     {
       "id": 195,
@@ -5407,7 +5411,6 @@
       "id": 199,
       "name": "Physical Fortress",
       "image": "%url%_ (2).png",
-      "unreleased": true,
       "type": "MODULE",
       "element": "COMBINED",
       "transform_range": "L-D",
@@ -5415,13 +5418,13 @@
         "weight": 40,
         "phyRes": 69,
         "health": 166
-      }
+      },
+      "tags": ["unreleased"]
     },
     {
       "id": 200,
       "name": "Explosive Fortress",
       "image": "%url%_ (3).png",
-      "unreleased": true,
       "type": "MODULE",
       "element": "COMBINED",
       "transform_range": "L-D",
@@ -5429,7 +5432,8 @@
         "weight": 40,
         "expRes": 69,
         "health": 166
-      }
+      },
+      "tags": ["unreleased"]
     },
     {
       "id": 201,
