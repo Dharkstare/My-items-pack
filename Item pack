@@ -5199,23 +5199,15 @@
       "element": "PHYSICAL",
       "stats": {
         "weight": 36,
-        "phyDmg": [
-          224,
-          447
-        ],
+        "phyDmg": [224, 447],
         "phyResDmg": 15,
-        "range": [
-          1,
-          2
-        ],
+        "range": [1, 2],
         "advance": 1,
         "backfire": 144,
         "heaCost": 62
+        "tags": ["melee"]
       },
-      "attachment": {
-        "x": 53,
-        "y": 50
-      },
+      "attachment": { "x": 53, "y": 50 },
       "transform_range": "L-D"
     },
     {
