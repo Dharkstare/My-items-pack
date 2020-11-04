@@ -5204,7 +5204,7 @@
         "range": [1, 2],
         "advance": 1,
         "backfire": 144,
-        "heaCost": 62
+        "heaCost": 62,
         "tags": ["melee"]
       },
       "attachment": { "x": 53, "y": 50 },
