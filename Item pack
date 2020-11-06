@@ -4742,7 +4742,7 @@
           1,
           2
         ],
-        "advance": 6,
+        "retreat": 6,
         "uses": 2,
         "heaCost": 38
       },
@@ -4770,7 +4770,7 @@
           1,
           2
         ],
-        "advance": 6,
+        "retreat": 6,
         "uses": 2,
         "heaCost": 38
       },
