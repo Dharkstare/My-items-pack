@@ -5393,7 +5393,7 @@
       "name": "Electric Fortress",
       "image": "%url%_ (4).png",
       "type": "MODULE",
-      "element": "COMBINED",
+      "element": "ELECTRIC",
       "transform_range": "L-D",
       "stats": {
         "weight": 40,
@@ -5406,7 +5406,7 @@
       "name": "Physical Fortress",
       "image": "%url%_ (2).png",
       "type": "MODULE",
-      "element": "COMBINED",
+      "element": "PHYSICAL",
       "transform_range": "L-D",
       "stats": {
         "weight": 40,
@@ -5417,17 +5417,16 @@
     },
     {
       "id": 200,
-      "name": "Explosive Fortress",
+      "name": "Plasma Fortress",
       "image": "%url%_ (3).png",
       "type": "MODULE",
-      "element": "COMBINED",
+      "element": "EXPLOSIVE",
       "transform_range": "L-D",
       "stats": {
         "weight": 40,
         "expRes": 69,
         "health": 166
-      },
-      "tags": ["unreleased"]
+      }
     },
     {
       "id": 201,
