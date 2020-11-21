@@ -5481,6 +5481,27 @@
         "y": 41
       },
       "transform_range": "L-D"
+    },
+    {
+      "id": 203,
+      "name": "Overheated Heat Bomb",
+      "image": "%url%_ (9).png",
+      "type": "TOP_WEAPON",
+      "element": "EXPLOSIVE",
+      "stats": {
+        "weight": 42,
+        "expDmg": [36, 66],
+        "heaDmg": 415,
+        "range": [3, 6],
+        "uses": 1,
+        "backfire": 180,
+        "heaCost": 415
+      },
+      "attachment": {
+        "x": 44,
+        "y": 41
+      },
+      "transform_range": "L-D"
     }
   ]
 }
