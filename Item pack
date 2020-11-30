@@ -5362,7 +5362,7 @@
     {
       "id": 196,
       "name": "Overload Preventor",
-      "image": "%url%_ (18).png",
+      "image": "%url%OverloadPreventor.png",
       "type": "MODULE",
       "element": "COMBINED",
       "transform_range": "L-D",
@@ -5375,7 +5375,7 @@
     {
       "id": 197,
       "name": "Quad Core Booster",
-      "image": "%url%_ (17).png",
+      "image": "%url%QuadCoreBooster.png",
       "type": "MODULE",
       "element": "COMBINED",
       "transform_range": "L-D",
@@ -5390,7 +5390,7 @@
     {
       "id": 198,
       "name": "Electric Fortress",
-      "image": "%url%_ (4).png",
+      "image": "%url%ElectricFortress.png",
       "type": "MODULE",
       "element": "ELECTRIC",
       "transform_range": "L-D",
@@ -5417,7 +5417,7 @@
     {
       "id": 200,
       "name": "Plasma Fortress",
-      "image": "%url%_ (3).png",
+      "image": "%url%PlasmaFortress.png",
       "type": "MODULE",
       "element": "EXPLOSIVE",
       "transform_range": "L-D",
@@ -5430,7 +5430,7 @@
     {
       "id": 201,
       "name": "Lightning Cutter",
-      "image": "%url%_ (13).png",
+      "image": "%url%LightningCutter.png",
       "type": "SIDE_WEAPON",
       "element": "ELECTRIC",
       "stats": {
@@ -5459,7 +5459,7 @@
     {
       "id": 202,
       "name": "Damaged Armor Annihilator",
-      "image": "%url%_2.png",
+      "image": "%url%DamagedArmorAnnihilator.png",
       "type": "SIDE_WEAPON",
       "element": "PHYSICAL",
       "stats": {
@@ -5485,7 +5485,7 @@
     {
       "id": 203,
       "name": "Overheated Heat Bomb",
-      "image": "%url%_ (9).png",
+      "image": "%url%OverheatedHeatBomb.png",
       "type": "TOP_WEAPON",
       "element": "EXPLOSIVE",
       "stats": {
@@ -5502,6 +5502,84 @@
         "y": 89
       },
       "transform_range": "L-D"
+    },
+    {
+      "id": 204,
+      "name": "Hollow Cyber Armor",
+      "image": "%url%HollowCyberArmor.svg",
+      "type": "TORSO",
+      "element": "PHYSICAL",
+      "stats": {
+        "weight": 370,
+        "health": 1678,
+        "eneCap": 259,
+        "eneReg": 80,
+        "heaCap": 259,
+        "heaCol": 80
+      },
+      "attachment": {
+        "leg1": { "x": 64, "y": 177 },
+        "leg2": { "x": 128, "y": 177 },
+        "side1": { "x": 54, "y": 137 },
+        "side2": { "x": 147, "y": 137 },
+        "side3": { "x": 54, "y": 87 },
+        "side4": { "x": 147, "y": 87 },
+        "top1": { "x": 68, "y": 11 },
+        "top2": { "x": 122, "y": 11  }
+      },
+      "transform_range": "M-D"
+    },
+    {
+      "id": 205,
+      "name": "Fractured Cyber Armor",
+      "image": "%url%FracturedCyberArmor.svg",
+      "type": "TORSO",
+      "element": "EXPLOSIVE",
+      "stats": {
+        "weight": 370,
+        "health": 1786,
+        "eneCap": 207,
+        "eneReg": 64,
+        "heaCap": 282,
+        "heaCol": 96
+      },
+      "attachment": {
+        "leg1": { "x": 64, "y": 177 },
+        "leg2": { "x": 128, "y": 177 },
+        "side1": { "x": 54, "y": 137 },
+        "side2": { "x": 147, "y": 137 },
+        "side3": { "x": 54, "y": 87 },
+        "side4": { "x": 147, "y": 87 },
+        "top1": { "x": 68, "y": 11 },
+        "top2": { "x": 122, "y": 11  }
+      },
+      "transform_range": "M-D"
+    },
+    {
+      "id": 206,
+      "name": "Rusty Cyber Armor",
+      "image": "%url%RustyCyberArmor.svg",
+      "type": "TORSO",
+      "element": "ELECTRIC",
+      "stats": {
+        "weight": 370,
+        "health": 1786,
+        "eneCap": 282,
+        "eneReg": 96,
+        "heaCap": 207,
+        "heaCol": 64
+      },
+      "attachment": {
+        "leg1": { "x": 64, "y": 177 },
+        "leg2": { "x": 128, "y": 177 },
+        "side1": { "x": 54, "y": 137 },
+        "side2": { "x": 147, "y": 137 },
+        "side3": { "x": 54, "y": 87 },
+        "side4": { "x": 147, "y": 87 },
+        "top1": { "x": 68, "y": 11 },
+        "top2": { "x": 122, "y": 11  }
+      },
+      "transform_range": "M-D"
     }
   ]
 }
