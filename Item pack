@@ -1,9 +1,9 @@
 {
   "config": {
     "key": "@Darkstare",
-    "name": "Darkstare’s item pack",
+    "name": "KilliN's item pack",
     "base_url": "https://raw.githubusercontent.com/ctrl-raul/workshop-unlimited/master/items/",
-    "description": "Items Pack updated by Darkstare and KilliN. Contact at Darkstare#8063 on Discord or on the SuperMechs Forums"
+    "description": "No custom items, no custom buffs/nerfs, just the default game items."
   },
   "items": [
     {
@@ -5506,7 +5506,7 @@
     {
       "id": 204,
       "name": "Hollow Cyber Armor",
-      "image": "%url%HollowCyberArmor.svg",
+      "image": "%url%HollowCyberArmor.png",
       "type": "TORSO",
       "element": "PHYSICAL",
       "stats": {
@@ -5532,7 +5532,7 @@
     {
       "id": 205,
       "name": "Fractured Cyber Armor",
-      "image": "%url%FracturedCyberArmor.svg",
+      "image": "%url%FracturedCyberArmor.png",
       "type": "TORSO",
       "element": "EXPLOSIVE",
       "stats": {
@@ -5558,7 +5558,7 @@
     {
       "id": 206,
       "name": "Rusty Cyber Armor",
-      "image": "%url%RustyCyberArmor.svg",
+      "image": "%url%RustyCyberArmor.png",
       "type": "TORSO",
       "element": "ELECTRIC",
       "stats": {
