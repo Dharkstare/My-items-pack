@@ -5402,17 +5402,16 @@
     },
     {
       "id": 199,
-      "name": "Physical Fortress",
+      "name": "Platinum Fortress",
       "image": "%url%_ (2).png",
       "type": "MODULE",
       "element": "PHYSICAL",
       "transform_range": "L-D",
       "stats": {
         "weight": 40,
-        "phyRes": 69,
+        "phyRes": 63,
         "health": 166
       },
-      "tags": ["unreleased"]
     },
     {
       "id": 200,
