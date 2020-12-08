@@ -387,22 +387,13 @@
       "stats": {
         "weight": 123,
         "health": 295,
-        "phyDmg": [
-          167,
-          219
-        ],
+        "phyDmg": [209, 293],
         "push": 2,
-        "range": [
-          1,
-          1
-        ],
+        "range": [1, 1],
         "walk": 1,
         "jump": 2
       },
-      "attachment": {
-        "x": 57,
-        "y": 22
-      },
+      "attachment": { "x": 57, "y": 22 },
       "transform_range": "R-D",
       "tags": ["melee"]
     },
@@ -4459,14 +4450,11 @@
       "element": "ELECTRIC",
       "stats": {
         "weight": 48,
-        "eleDmg": [
-          147,
-          266
-        ],
+        "eleDmg": [147, 266],
         "eneDmg": 96,
         "eleResDmg": 5,
         "backfire": 98,
-        "eneCost": 50
+        "eneCost": 69
       },
       "transform_range": "L-D"
     },
@@ -4478,10 +4466,7 @@
       "element": "EXPLOSIVE",
       "stats": {
         "weight": 48,
-        "expDmg": [
-          141,
-          158
-        ],
+        "expDmg": [141, 258],
         "heaDmg": 61,
         "expResDmg": 6,
         "backfire": 101,
